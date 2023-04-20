@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CoordinatorLibrary",
+        "repositoryURL": "http://muzammilpeer.com:9090/scm/sw/coordinatorlibrary.git",
+        "state": {
+          "branch": "master",
+          "revision": "8b5d6fd39895ffedd8e7edb9fcd8b27e17766b05",
+          "version": null
+        }
+      },
+      {
+        "package": "RouterLibrary",
+        "repositoryURL": "http://muzammilpeer.com:9090/scm/sw/routerlibrary.git",
+        "state": {
+          "branch": "master",
+          "revision": "c7b2386afe80fdce11784123350b969540d6aef6",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
